@@ -17,6 +17,7 @@ int main()
     cout<<endl<<"Division Result = "<<res<<endl;
     return 0;
 }
+
 int add(int num1, int num2)
 {
     //addition function
